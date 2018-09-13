@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "declaration": false,
+        "emitBOM": false,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "outDir": "typeScript",
+        "pretty": true,
+        "removeComments": false,
+        "sourceMap": false,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "target": "es6"
+    },
+    "exclude": [
+        "node_modules",
+        "typescript"
+    ]
+}

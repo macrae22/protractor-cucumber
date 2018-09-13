@@ -1,0 +1,53 @@
+{
+    "defaultSeverity": "error",
+    "rules": {
+        "arrow-return-shorthand": true,
+        "await-promise": true,
+        "ban-comma-operator": true,
+        "deprecation": true,
+        "curly": true,
+        "eofline": true,
+        "forin": true,
+        "indent": [true, "spaces", 4],
+        "interface-over-type-literal": true,
+        "member-access": true,
+        "no-angle-bracket-type-assertion": true,
+        "no-any": true,
+        "no-boolean-literal-compare": true,
+        "no-consecutive-blank-lines": true,
+        "no-console": false,
+        "no-duplicate-imports": true,
+        "no-empty": true,
+        "no-eval": true,
+        "no-floating-promises": true,
+        "no-inferrable-types": true,
+        "no-irregular-whitespace": true,
+        "no-internal-module": true,
+        "no-null-keyword": true,
+        "no-reference": true,
+        "no-return-await": true,
+        "no-string-literal": true,
+        "no-string-throw": true,
+        "no-trailing-whitespace": true,
+        "no-unnecessary-initializer": true,
+        "no-unnecessary-qualifier": true,
+        "no-unnecessary-type-assertion": true,
+        "no-unused-variable": true,
+        "no-var-keyword": true,
+        "object-literal-key-quotes": [true, "as-needed"],
+        "object-literal-shorthand": true,
+        "prefer-const": true,
+        "prefer-method-signature": true,
+        "prefer-object-spread": true,
+        "prefer-readonly": true,
+        "return-undefined": true,
+        "semicolon": true,
+        "trailing-comma": [
+            true,
+            {
+                "multiline": "never",
+                "singleline": "never"
+            }
+        ]
+    }
+}
